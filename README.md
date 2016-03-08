@@ -1,3 +1,3 @@
 # hello-world
-Lev is here. I like Selenium, but can not programming.
+Lev is here. I like Selenium.
 Learning...Learning...Learning...
